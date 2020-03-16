@@ -37,7 +37,7 @@ export class Detail extends Component {
             // </div>
             <div>
                 <ButtonBackToHome style={{float:"left"}}/>
-                <div className="card-content is-centered card-shadow "  >
+                <div className="card-content is-centered card-shadow" >
                 
                 <div className="media">
                 <div className="media-left">
